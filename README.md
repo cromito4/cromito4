@@ -1,4 +1,4 @@
-# GitHub profile
+# GitHub profile 
 #### Info sobre mi: Santiago Quintero Guzmán
 #### Estudiente de la Universidad de la Costa CUC
 #### Ingeniería de sistemas
@@ -20,3 +20,15 @@
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cromito4)
 ## streak
 - ![GitHub Streak](https://streak-stats.demolab.com/?user=cromito4)
+## Contador de vistas
+- <img src="https://komarev.com/ghpvc/?username=cromito4&label=Profile%20views&color=00D4FF&style=plastic">
+## Animación de texto
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Always+Learning+New+Technologies">
+
+## Snake
+<img src="https://raw.githubusercontent.com/cromito4/cromito4/output/github-contribution-grid-snake.svg">
+
+## Agregar GIFs
+- ![Demo App](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+- ![Demo App](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazk5cXdqYTU3ejYwbnh4cjZzbHppa21odDV4cjlpeWM1OHVramtodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif)
+- ![Demo App](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt2bnVrZzV1bDhjZG82MTg5amdmY2hkMWh5YmUzNXBlYTNraWpiMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o7PX1pWVblbtWn85qh/giphy.gif)
