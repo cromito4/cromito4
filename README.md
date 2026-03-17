@@ -1,7 +1,8 @@
-# GitHub profile 
-#### Info sobre mi: Santiago Quintero Guzmán
-#### Estudiente de la Universidad de la Costa CUC
-#### Ingeniería de sistemas
+<p>
+  <h1 align="center"><b>Hey, I'm Santiago Quintero Guzmán 👋</b></h1>
+</p>
+
+#### :school: I am a `Software Engineering Student` at [Universidad de la Costa CUC](https://www.cuc.edu.co/).
 #### Actual mente estoy interesado en mejorar mis abilidades con lenguages de programació, como python y quiero aprender java
 ## Contacto: 
 #### Whatsapp: +57 300 225 1452
