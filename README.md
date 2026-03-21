@@ -10,7 +10,7 @@
 
 ## [foto de perfil]
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eb7b2589-eacd-4fd3-878e-6166c465339d" width="500">
+  <img src="foto.jpg" width="400">
 </p>
 
 ## followers
