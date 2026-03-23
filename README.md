@@ -54,7 +54,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=cromito4&theme=tokyonight"/>
@@ -78,7 +78,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cromito4/cromito4/output/github-contribution-grid-snake.svg">
